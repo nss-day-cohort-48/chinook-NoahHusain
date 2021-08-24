@@ -1,0 +1,1 @@
+SELECT * FROM Employee WHERE Title = "Sales Support Agent" OR Title = "Sales Manager"

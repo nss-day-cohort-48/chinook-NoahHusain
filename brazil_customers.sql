@@ -1,1 +1,1 @@
-SELECT FirstName, LastName, InvoiceId, 
+SELECT * FROM Customer WHERE Country = "Brazil"
